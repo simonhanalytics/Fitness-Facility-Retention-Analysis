@@ -1,0 +1,1487 @@
+reasons_id,member_id,stay_reason_category,length_of_membership
+1,1,Flexible Schedule,24
+2,1,Personalized Coaching,24
+3,1,Cleanliness & Equipment,24
+4,2,Visible Results,4
+5,2,Personalized Coaching,4
+6,2,Challenges & Events,4
+7,3,Convenient Location,10
+8,3,Challenges & Events,10
+9,3,Facility Atmosphere,10
+10,4,Cleanliness & Equipment,4
+11,4,Visible Results,4
+12,4,Flexible Schedule,4
+13,5,Challenges & Events,1
+14,5,Cleanliness & Equipment,1
+15,5,Convenient Location,1
+16,6,Class Variety,16
+17,6,Challenges & Events,16
+18,6,Instructor Quality,16
+19,7,Unspecified,23
+20,7,Instructor Quality,23
+21,7,Accountability,23
+22,8,Cleanliness & Equipment,16
+23,8,Facility Atmosphere,16
+24,8,Instructor Quality,16
+25,9,Class Variety,9
+26,9,Facility Atmosphere,9
+27,9,Accountability,9
+28,10,Flexible Schedule,17
+29,10,Enjoy the Activity,17
+30,10,Challenges & Events,17
+31,11,Convenient Location,1
+32,11,Challenges & Events,1
+33,11,Facility Atmosphere,1
+34,12,Facility Atmosphere,10
+35,12,Accountability,10
+36,12,Enjoy the Activity,10
+37,13,Visible Results,1
+38,13,Accountability,1
+39,13,Personalized Coaching,1
+40,14,Community & Friends,3
+41,14,Instructor Quality,3
+42,14,Challenges & Events,3
+43,15,Convenient Location,18
+44,15,Flexible Schedule,20
+45,15,Accountability,18
+46,16,Instructor Quality,23
+47,16,Cleanliness & Equipment,23
+48,16,Visible Results,23
+49,17,Instructor Quality,20
+50,17,Visible Results,20
+51,17,Facility Atmosphere,20
+52,18,Visible Results,13
+53,18,Personalized Coaching,13
+54,18,Community & Friends,13
+55,19,Community & Friends,18
+56,19,Convenient Location,18
+57,19,Accountability,18
+58,20,Flexible Schedule,24
+59,20,Facility Atmosphere,24
+60,20,Cleanliness & Equipment,24
+61,21,Convenient Location,8
+62,21,Community & Friends,8
+63,21,Personalized Coaching,8
+64,22,Class Variety,15
+65,22,Challenges & Events,15
+66,22,Cleanliness & Equipment,15
+67,23,Flexible Schedule,6
+68,23,Community & Friends,6
+69,23,Convenient Location,6
+70,24,Community & Friends,20
+71,24,Instructor Quality,20
+72,24,Accountability,20
+73,25,Facility Atmosphere,14
+74,25,Challenges & Events,14
+75,25,Visible Results,14
+76,26,Cleanliness & Equipment,21
+78,26,Convenient Location,21
+79,27,Convenient Location,1
+81,27,Cleanliness & Equipment,1
+82,28,Accountability,13
+83,28,Facility Atmosphere,13
+84,28,Community & Friends,13
+85,29,Class Variety,2
+86,29,Challenges & Events,2
+87,29,Accountability,2
+88,30,Flexible Schedule,11
+89,30,Enjoy the Activity,11
+90,30,Visible Results,11
+91,31,Community & Friends,3
+92,31,Facility Atmosphere,3
+93,31,Cleanliness & Equipment,3
+94,32,Instructor Quality,8
+95,32,Class Variety,8
+96,32,Accountability,8
+97,33,Class Variety,2
+98,33,Community & Friends,2
+99,33,Flexible Schedule,4
+100,34,Instructor Quality,8
+101,34,Accountability,8
+102,34,Personalized Coaching,8
+103,35,Flexible Schedule,10
+104,35,Cleanliness & Equipment,10
+105,35,Enjoy the Activity,10
+106,36,Personalized Coaching,4
+107,36,Community & Friends,4
+108,36,Convenient Location,4
+109,37,Visible Results,13
+110,37,Challenges & Events,13
+111,37,Community & Friends,13
+112,38,Convenient Location,3
+113,38,Challenges & Events,3
+114,38,Enjoy the Activity,3
+115,39,Personalized Coaching,8
+116,39,Enjoy the Activity,8
+117,39,Accountability,8
+118,40,Enjoy the Activity,9
+119,40,Cleanliness & Equipment,9
+120,40,Personalized Coaching,9
+121,41,Facility Atmosphere,13
+122,41,Convenient Location,13
+123,41,Flexible Schedule,13
+124,42,Cleanliness & Equipment,1
+125,42,Challenges & Events,1
+126,42,Accountability,1
+127,43,Facility Atmosphere,3
+128,43,Convenient Location,3
+129,43,Accountability,3
+130,44,Class Variety,17
+131,44,Convenient Location,17
+132,44,Flexible Schedule,17
+133,45,Enjoy the Activity,1
+134,45,Challenges & Events,1
+135,45,Facility Atmosphere,1
+136,46,Facility Atmosphere,22
+137,46,Class Variety,22
+138,46,Visible Results,22
+139,47,Cleanliness & Equipment,2
+140,47,Class Variety,2
+141,47,Personalized Coaching,2
+142,48,Challenges & Events,11
+143,48,Community & Friends,11
+144,48,Facility Atmosphere,11
+145,49,Instructor Quality,9
+146,49,Flexible Schedule,9
+147,49,Cleanliness & Equipment,9
+148,50,Facility Atmosphere,23
+149,50,Convenient Location,23
+150,50,Visible Results,23
+151,51,Instructor Quality,22
+152,51,Community & Friends,22
+153,51,Convenient Location,22
+154,52,Instructor Quality,5
+155,52,Visible Results,5
+156,52,Personalized Coaching,5
+157,53,Community & Friends,12
+158,53,Cleanliness & Equipment,12
+159,53,Personalized Coaching,12
+160,54,Facility Atmosphere,19
+161,54,Challenges & Events,19
+162,54,Accountability,19
+163,55,Convenient Location,8
+164,55,Facility Atmosphere,8
+165,55,Enjoy the Activity,8
+166,56,Facility Atmosphere,9
+167,56,Cleanliness & Equipment,9
+168,56,Enjoy the Activity,9
+169,57,Convenient Location,24
+170,57,Personalized Coaching,24
+171,57,Challenges & Events,24
+172,58,Challenges & Events,12
+173,58,Convenient Location,12
+174,58,Community & Friends,12
+175,59,Enjoy the Activity,23
+176,59,Accountability,23
+177,59,Cleanliness & Equipment,23
+178,60,Accountability,9
+179,60,Visible Results,9
+180,60,Facility Atmosphere,9
+181,61,Enjoy the Activity,1
+182,61,Personalized Coaching,1
+183,61,Facility Atmosphere,1
+184,62,Visible Results,20
+185,62,Cleanliness & Equipment,20
+186,62,Convenient Location,20
+187,63,Community & Friends,21
+188,63,Visible Results,21
+189,63,Accountability,21
+190,64,Flexible Schedule,14
+191,64,Challenges & Events,14
+192,64,Enjoy the Activity,14
+193,65,Personalized Coaching,6
+194,65,Community & Friends,6
+196,66,Class Variety,1
+197,66,Convenient Location,1
+198,66,Cleanliness & Equipment,1
+199,67,Convenient Location,8
+200,67,Personalized Coaching,8
+201,67,Challenges & Events,8
+202,68,Challenges & Events,3
+203,68,Class Variety,3
+204,68,Community & Friends,3
+205,69,Visible Results,11
+206,69,Challenges & Events,11
+208,70,Challenges & Events,6
+209,70,Cleanliness & Equipment,6
+210,70,Personalized Coaching,6
+211,71,Convenient Location,6
+212,71,Accountability,6
+213,71,Enjoy the Activity,6
+214,72,Flexible Schedule,18
+215,72,Convenient Location,20
+216,72,Facility Atmosphere,18
+217,73,Enjoy the Activity,8
+218,73,Instructor Quality,8
+219,73,Community & Friends,8
+220,74,Enjoy the Activity,7
+221,74,Accountability,7
+222,74,Personalized Coaching,7
+223,75,Challenges & Events,7
+224,75,Facility Atmosphere,7
+225,75,Instructor Quality,7
+226,76,Class Variety,15
+227,76,Challenges & Events,15
+228,76,Community & Friends,15
+229,77,Instructor Quality,2
+230,77,Visible Results,2
+231,77,Cleanliness & Equipment,2
+232,78,Instructor Quality,21
+233,78,Challenges & Events,21
+234,78,Cleanliness & Equipment,21
+236,79,Enjoy the Activity,24
+237,79,Facility Atmosphere,24
+238,80,Class Variety,5
+239,80,Flexible Schedule,5
+240,80,Visible Results,5
+241,81,Instructor Quality,7
+242,81,Visible Results,7
+243,81,Flexible Schedule,7
+244,82,Flexible Schedule,1
+245,82,Personalized Coaching,1
+246,82,Accountability,1
+247,83,Community & Friends,17
+248,83,Instructor Quality,17
+249,83,Cleanliness & Equipment,17
+250,84,Enjoy the Activity,8
+251,84,Visible Results,8
+252,84,Cleanliness & Equipment,8
+253,85,Accountability,7
+254,85,Challenges & Events,7
+255,85,Visible Results,7
+256,86,Flexible Schedule,5
+257,86,Cleanliness & Equipment,5
+258,86,Convenient Location,5
+259,87,Visible Results,2
+260,87,Cleanliness & Equipment,2
+261,87,Community & Friends,2
+262,88,Community & Friends,5
+263,88,Accountability,5
+264,88,Flexible Schedule,5
+265,89,Challenges & Events,2
+266,89,Instructor Quality,2
+267,89,Personalized Coaching,2
+268,90,Personalized Coaching,14
+269,90,Flexible Schedule,14
+270,90,Community & Friends,14
+271,91,Personalized Coaching,4
+272,91,Class Variety,4
+273,91,Challenges & Events,4
+274,92,Convenient Location,1
+275,92,Cleanliness & Equipment,1
+276,92,Class Variety,1
+277,93,Accountability,1
+278,93,Facility Atmosphere,1
+279,93,Personalized Coaching,1
+280,94,Facility Atmosphere,9
+281,94,Convenient Location,9
+282,94,Visible Results,9
+283,95,Instructor Quality,1
+284,95,Flexible Schedule,1
+285,95,Enjoy the Activity,3
+286,96,Enjoy the Activity,3
+287,96,Challenges & Events,3
+288,96,Cleanliness & Equipment,3
+289,97,Personalized Coaching,1
+290,97,Visible Results,1
+291,97,Convenient Location,1
+292,98,Facility Atmosphere,4
+293,98,Cleanliness & Equipment,4
+294,98,Instructor Quality,4
+295,99,Community & Friends,9
+296,99,Instructor Quality,9
+297,99,Class Variety,9
+298,100,Flexible Schedule,14
+299,100,Accountability,14
+300,100,Challenges & Events,14
+301,101,Convenient Location,17
+302,101,Cleanliness & Equipment,17
+303,101,Facility Atmosphere,17
+304,102,Cleanliness & Equipment,11
+305,102,Convenient Location,11
+306,102,Flexible Schedule,11
+307,103,Instructor Quality,5
+308,103,Accountability,5
+309,103,Community & Friends,5
+310,104,Cleanliness & Equipment,11
+311,104,Enjoy the Activity,11
+312,104,Community & Friends,11
+313,105,Facility Atmosphere,4
+314,105,Class Variety,4
+315,105,Instructor Quality,4
+316,106,Enjoy the Activity,17
+317,106,Accountability,17
+318,106,Flexible Schedule,17
+319,107,Instructor Quality,1
+321,107,Convenient Location,1
+322,108,Visible Results,9
+323,108,Class Variety,9
+324,108,Instructor Quality,9
+325,109,Community & Friends,8
+326,109,Instructor Quality,8
+327,109,Enjoy the Activity,8
+328,110,Accountability,7
+329,110,Cleanliness & Equipment,7
+330,110,Enjoy the Activity,7
+331,111,Facility Atmosphere,12
+332,111,Instructor Quality,12
+333,111,Community & Friends,12
+334,112,Facility Atmosphere,2
+335,112,Accountability,2
+336,112,Personalized Coaching,2
+337,113,Enjoy the Activity,21
+338,113,Class Variety,21
+339,113,Community & Friends,21
+340,114,Instructor Quality,3
+341,114,Challenges & Events,3
+342,114,Accountability,3
+343,115,Accountability,3
+344,115,Community & Friends,3
+345,115,Facility Atmosphere,3
+346,116,Personalized Coaching,7
+347,116,Visible Results,7
+348,116,Class Variety,7
+349,117,Flexible Schedule,9
+350,117,Visible Results,9
+351,117,Personalized Coaching,9
+352,118,Challenges & Events,2
+353,118,Unspecified,2
+354,118,Visible Results,2
+355,119,Visible Results,6
+356,119,Challenges & Events,6
+357,119,Accountability,6
+358,120,Accountability,21
+359,120,Flexible Schedule,21
+360,120,Class Variety,21
+361,121,Accountability,15
+362,121,Convenient Location,15
+363,121,Cleanliness & Equipment,15
+364,122,Enjoy the Activity,11
+365,122,Visible Results,11
+366,122,Personalized Coaching,11
+367,123,Visible Results,20
+368,123,Cleanliness & Equipment,20
+369,123,Accountability,20
+370,124,Visible Results,1
+371,124,Instructor Quality,1
+372,124,Personalized Coaching,1
+373,125,Personalized Coaching,3
+374,125,Facility Atmosphere,3
+375,125,Enjoy the Activity,3
+376,126,Class Variety,5
+377,126,Visible Results,5
+378,126,Community & Friends,5
+379,127,Personalized Coaching,15
+380,127,Community & Friends,15
+381,127,Flexible Schedule,15
+382,128,Accountability,24
+383,128,Personalized Coaching,24
+384,128,Facility Atmosphere,24
+385,129,Convenient Location,7
+386,129,Instructor Quality,7
+387,129,Accountability,7
+388,130,Convenient Location,9
+389,130,Instructor Quality,9
+390,130,Unspecified,9
+391,131,Community & Friends,1
+392,131,Personalized Coaching,1
+393,131,Class Variety,1
+394,132,Personalized Coaching,21
+395,132,Cleanliness & Equipment,21
+396,132,Community & Friends,21
+397,133,Personalized Coaching,21
+398,133,Accountability,21
+399,133,Class Variety,21
+400,134,Instructor Quality,3
+401,134,Convenient Location,3
+402,134,Accountability,3
+403,135,Accountability,13
+404,135,Enjoy the Activity,13
+405,135,Challenges & Events,13
+406,136,Visible Results,12
+407,136,Challenges & Events,12
+408,136,Instructor Quality,12
+409,137,Visible Results,24
+410,137,Personalized Coaching,24
+411,137,Convenient Location,24
+412,138,Instructor Quality,11
+413,138,Enjoy the Activity,11
+414,138,Challenges & Events,11
+415,139,Class Variety,15
+416,139,Community & Friends,15
+417,139,Facility Atmosphere,15
+418,140,Personalized Coaching,19
+419,140,Community & Friends,19
+420,140,Cleanliness & Equipment,19
+421,141,Cleanliness & Equipment,12
+422,141,Facility Atmosphere,12
+423,141,Community & Friends,12
+424,142,Instructor Quality,5
+425,142,Community & Friends,5
+426,142,Flexible Schedule,5
+427,143,Convenient Location,6
+428,143,Flexible Schedule,6
+429,143,Personalized Coaching,6
+430,144,Facility Atmosphere,8
+431,144,Cleanliness & Equipment,8
+432,144,Flexible Schedule,8
+433,145,Personalized Coaching,7
+434,145,Flexible Schedule,7
+435,145,Accountability,7
+436,146,Visible Results,7
+437,146,Cleanliness & Equipment,7
+438,146,Convenient Location,7
+439,147,Instructor Quality,1
+440,147,Challenges & Events,1
+441,147,Facility Atmosphere,1
+442,148,Convenient Location,3
+443,148,Challenges & Events,3
+444,148,Visible Results,3
+445,149,Class Variety,17
+446,149,Instructor Quality,17
+447,149,Personalized Coaching,17
+448,150,Accountability,5
+449,150,Visible Results,6
+450,150,Enjoy the Activity,6
+451,151,Class Variety,10
+452,151,Community & Friends,10
+453,151,Challenges & Events,10
+454,152,Community & Friends,24
+455,152,Enjoy the Activity,24
+456,152,Class Variety,24
+457,153,Enjoy the Activity,4
+458,153,Accountability,4
+459,153,Flexible Schedule,4
+460,154,Class Variety,15
+461,154,Community & Friends,15
+462,154,Facility Atmosphere,15
+463,155,Challenges & Events,1
+464,155,Class Variety,1
+465,155,Instructor Quality,1
+466,156,Visible Results,2
+467,156,Community & Friends,2
+468,156,Instructor Quality,2
+469,157,Instructor Quality,1
+470,157,Enjoy the Activity,1
+471,157,Accountability,1
+472,158,Class Variety,2
+473,158,Challenges & Events,2
+474,158,Accountability,2
+475,159,Enjoy the Activity,17
+476,159,Cleanliness & Equipment,17
+477,159,Accountability,17
+478,160,Facility Atmosphere,11
+479,160,Flexible Schedule,11
+480,160,Accountability,11
+481,161,Personalized Coaching,21
+482,161,Enjoy the Activity,21
+483,161,Facility Atmosphere,21
+484,162,Flexible Schedule,21
+485,162,Class Variety,21
+486,162,Community & Friends,21
+487,163,Flexible Schedule,2
+488,163,Enjoy the Activity,2
+489,163,Challenges & Events,2
+490,164,Enjoy the Activity,25
+491,164,Challenges & Events,25
+492,164,Convenient Location,25
+493,165,Class Variety,6
+494,165,Community & Friends,6
+495,165,Accountability,6
+496,166,Instructor Quality,8
+497,166,Cleanliness & Equipment,8
+498,166,Flexible Schedule,8
+499,167,Facility Atmosphere,3
+500,167,Cleanliness & Equipment,3
+501,167,Enjoy the Activity,3
+502,168,Facility Atmosphere,17
+503,168,Class Variety,17
+504,168,Visible Results,17
+505,169,Community & Friends,9
+506,169,Instructor Quality,9
+507,169,Convenient Location,9
+508,170,Enjoy the Activity,1
+509,170,Flexible Schedule,1
+510,170,Class Variety,1
+511,171,Instructor Quality,12
+512,171,Community & Friends,12
+513,171,Accountability,12
+514,172,Instructor Quality,4
+515,172,Class Variety,4
+516,172,Community & Friends,4
+517,173,Accountability,1
+518,173,Challenges & Events,1
+519,173,Class Variety,1
+520,174,Personalized Coaching,1
+521,174,Cleanliness & Equipment,1
+522,174,Enjoy the Activity,1
+523,175,Instructor Quality,4
+524,175,Convenient Location,4
+525,175,Facility Atmosphere,4
+526,176,Accountability,20
+527,176,Personalized Coaching,18
+528,176,Flexible Schedule,18
+529,177,Community & Friends,4
+530,177,Class Variety,4
+531,177,Challenges & Events,4
+532,178,Enjoy the Activity,14
+533,178,Convenient Location,14
+534,178,Flexible Schedule,14
+535,179,Instructor Quality,21
+536,179,Visible Results,21
+537,179,Enjoy the Activity,21
+538,180,Personalized Coaching,3
+539,180,Community & Friends,3
+540,180,Cleanliness & Equipment,3
+541,181,Facility Atmosphere,10
+542,181,Cleanliness & Equipment,10
+543,181,Instructor Quality,10
+544,182,Flexible Schedule,7
+545,182,Cleanliness & Equipment,7
+546,182,Personalized Coaching,7
+547,183,Flexible Schedule,12
+548,183,Convenient Location,12
+549,183,Instructor Quality,12
+550,184,Class Variety,1
+551,184,Accountability,1
+552,184,Personalized Coaching,1
+553,185,Facility Atmosphere,22
+554,185,Community & Friends,22
+555,185,Class Variety,22
+556,186,Flexible Schedule,14
+557,186,Convenient Location,14
+558,186,Personalized Coaching,14
+559,187,Accountability,7
+560,187,Instructor Quality,7
+561,187,Visible Results,7
+562,188,Cleanliness & Equipment,5
+563,188,Flexible Schedule,5
+564,188,Accountability,5
+565,189,Personalized Coaching,8
+566,189,Accountability,8
+567,189,Class Variety,8
+568,190,Flexible Schedule,16
+569,190,Enjoy the Activity,16
+570,190,Convenient Location,16
+571,191,Visible Results,8
+572,191,Challenges & Events,8
+573,191,Cleanliness & Equipment,8
+574,192,Personalized Coaching,19
+575,192,Visible Results,19
+576,192,Facility Atmosphere,19
+577,193,Facility Atmosphere,17
+578,193,Flexible Schedule,17
+579,193,Challenges & Events,17
+580,194,Enjoy the Activity,12
+581,194,Personalized Coaching,12
+582,194,Accountability,12
+583,195,Flexible Schedule,8
+584,195,Instructor Quality,8
+585,195,Community & Friends,8
+586,196,Convenient Location,21
+587,196,Visible Results,21
+588,196,Accountability,21
+589,197,Challenges & Events,2
+590,197,Class Variety,2
+591,197,Enjoy the Activity,2
+592,198,Visible Results,13
+593,198,Facility Atmosphere,13
+594,198,Personalized Coaching,13
+595,199,Enjoy the Activity,19
+596,199,Instructor Quality,19
+597,199,Personalized Coaching,19
+598,200,Challenges & Events,11
+599,200,Facility Atmosphere,11
+600,200,Convenient Location,11
+601,201,Class Variety,22
+602,201,Facility Atmosphere,22
+603,201,Visible Results,22
+604,202,Convenient Location,16
+605,202,Challenges & Events,16
+606,202,Personalized Coaching,16
+607,203,Cleanliness & Equipment,16
+608,203,Challenges & Events,16
+609,203,Flexible Schedule,16
+610,204,Enjoy the Activity,6
+611,204,Visible Results,6
+612,204,Class Variety,6
+613,205,Convenient Location,13
+614,205,Cleanliness & Equipment,11
+615,205,Flexible Schedule,13
+616,206,Challenges & Events,10
+617,206,Personalized Coaching,10
+618,206,Cleanliness & Equipment,10
+619,207,Community & Friends,1
+620,207,Cleanliness & Equipment,1
+621,207,Accountability,1
+622,208,Challenges & Events,13
+623,208,Community & Friends,13
+624,208,Flexible Schedule,13
+625,209,Flexible Schedule,15
+626,209,Cleanliness & Equipment,15
+627,209,Class Variety,15
+628,210,Facility Atmosphere,12
+629,210,Flexible Schedule,12
+630,210,Challenges & Events,12
+631,211,Accountability,22
+632,211,Facility Atmosphere,22
+633,211,Enjoy the Activity,22
+634,212,Facility Atmosphere,6
+635,212,Visible Results,6
+636,212,Enjoy the Activity,6
+637,213,Accountability,5
+638,213,Facility Atmosphere,6
+639,213,Cleanliness & Equipment,5
+640,214,Community & Friends,1
+641,214,Flexible Schedule,1
+642,214,Personalized Coaching,1
+643,215,Instructor Quality,4
+644,215,Flexible Schedule,4
+645,215,Enjoy the Activity,4
+646,216,Cleanliness & Equipment,9
+647,216,Facility Atmosphere,9
+648,216,Visible Results,9
+649,217,Enjoy the Activity,4
+650,217,Accountability,4
+651,217,Cleanliness & Equipment,4
+652,218,Class Variety,15
+653,218,Community & Friends,15
+654,218,Enjoy the Activity,15
+655,219,Personalized Coaching,23
+656,219,Enjoy the Activity,23
+657,219,Cleanliness & Equipment,23
+658,220,Personalized Coaching,9
+659,220,Class Variety,9
+660,220,Challenges & Events,9
+661,221,Personalized Coaching,24
+662,221,Community & Friends,24
+663,221,Cleanliness & Equipment,24
+664,222,Community & Friends,19
+665,222,Challenges & Events,19
+666,222,Visible Results,19
+667,223,Personalized Coaching,3
+668,223,Community & Friends,3
+669,223,Convenient Location,3
+670,224,Class Variety,16
+671,224,Convenient Location,16
+672,224,Facility Atmosphere,16
+673,225,Class Variety,12
+674,225,Community & Friends,14
+675,225,Instructor Quality,14
+676,226,Personalized Coaching,9
+677,226,Visible Results,9
+678,226,Class Variety,9
+679,227,Class Variety,5
+680,227,Community & Friends,5
+681,227,Accountability,5
+682,228,Challenges & Events,23
+683,228,Visible Results,23
+684,228,Class Variety,23
+685,229,Accountability,20
+686,229,Convenient Location,20
+687,229,Instructor Quality,20
+688,230,Class Variety,3
+689,230,Flexible Schedule,3
+690,230,Enjoy the Activity,3
+691,231,Flexible Schedule,14
+692,231,Community & Friends,14
+693,231,Instructor Quality,14
+694,232,Facility Atmosphere,13
+695,232,Convenient Location,13
+696,232,Instructor Quality,13
+697,233,Enjoy the Activity,18
+698,233,Community & Friends,18
+699,233,Facility Atmosphere,18
+700,234,Convenient Location,7
+701,234,Community & Friends,7
+702,234,Class Variety,7
+703,235,Accountability,24
+704,235,Flexible Schedule,24
+705,235,Class Variety,24
+706,236,Instructor Quality,3
+707,236,Accountability,3
+708,236,Cleanliness & Equipment,3
+709,237,Class Variety,20
+710,237,Visible Results,20
+711,237,Instructor Quality,20
+712,238,Class Variety,1
+713,238,Accountability,1
+714,238,Personalized Coaching,1
+715,239,Convenient Location,2
+717,239,Flexible Schedule,2
+718,240,Accountability,7
+719,240,Visible Results,7
+720,240,Flexible Schedule,7
+721,241,Convenient Location,15
+722,241,Class Variety,15
+723,241,Flexible Schedule,15
+724,242,Accountability,1
+725,242,Convenient Location,1
+726,242,Instructor Quality,1
+727,243,Community & Friends,23
+728,243,Challenges & Events,23
+729,243,Enjoy the Activity,23
+730,244,Flexible Schedule,9
+731,244,Accountability,9
+732,244,Personalized Coaching,9
+733,245,Class Variety,20
+734,245,Instructor Quality,20
+735,245,Cleanliness & Equipment,20
+736,246,Community & Friends,6
+737,246,Instructor Quality,5
+738,246,Class Variety,5
+739,247,Community & Friends,1
+740,247,Accountability,1
+741,247,Flexible Schedule,1
+742,248,Personalized Coaching,25
+743,248,Convenient Location,25
+744,248,Enjoy the Activity,25
+745,249,Enjoy the Activity,21
+746,249,Visible Results,21
+747,249,Convenient Location,21
+748,250,Class Variety,11
+749,250,Enjoy the Activity,11
+750,250,Community & Friends,11
+751,251,Flexible Schedule,7
+752,251,Community & Friends,7
+753,251,Visible Results,7
+754,252,Class Variety,5
+755,252,Enjoy the Activity,5
+756,252,Instructor Quality,5
+757,253,Enjoy the Activity,4
+758,253,Cleanliness & Equipment,4
+759,253,Facility Atmosphere,4
+760,254,Community & Friends,20
+761,254,Challenges & Events,20
+762,254,Enjoy the Activity,20
+763,255,Facility Atmosphere,23
+764,255,Unspecified,24
+765,255,Instructor Quality,23
+766,256,Facility Atmosphere,1
+767,256,Class Variety,1
+768,256,Enjoy the Activity,1
+769,257,Community & Friends,13
+770,257,Accountability,13
+771,257,Instructor Quality,13
+772,258,Convenient Location,4
+773,258,Instructor Quality,5
+774,258,Enjoy the Activity,5
+775,259,Enjoy the Activity,11
+776,259,Convenient Location,11
+777,259,Cleanliness & Equipment,11
+778,260,Personalized Coaching,18
+779,260,Accountability,18
+780,260,Community & Friends,18
+781,261,Challenges & Events,13
+782,261,Enjoy the Activity,13
+783,261,Accountability,13
+784,262,Challenges & Events,6
+785,262,Enjoy the Activity,6
+786,262,Class Variety,6
+787,263,Class Variety,13
+788,263,Challenges & Events,13
+789,263,Community & Friends,13
+790,264,Instructor Quality,9
+791,264,Flexible Schedule,9
+792,264,Challenges & Events,9
+793,265,Convenient Location,10
+794,265,Accountability,10
+795,265,Flexible Schedule,10
+796,266,Accountability,2
+797,266,Flexible Schedule,2
+798,266,Visible Results,2
+799,267,Flexible Schedule,2
+800,267,Class Variety,2
+801,267,Challenges & Events,2
+802,268,Accountability,6
+803,268,Enjoy the Activity,6
+804,268,Class Variety,6
+805,269,Enjoy the Activity,13
+806,269,Flexible Schedule,13
+807,269,Challenges & Events,13
+808,270,Convenient Location,2
+809,270,Accountability,2
+810,270,Flexible Schedule,2
+811,271,Challenges & Events,19
+813,271,Facility Atmosphere,19
+814,272,Enjoy the Activity,16
+815,272,Challenges & Events,16
+816,272,Flexible Schedule,16
+817,273,Flexible Schedule,3
+818,273,Challenges & Events,3
+819,273,Facility Atmosphere,3
+820,274,Visible Results,8
+821,274,Challenges & Events,8
+822,274,Convenient Location,8
+823,275,Instructor Quality,15
+824,275,Flexible Schedule,15
+825,275,Accountability,15
+826,276,Facility Atmosphere,9
+827,276,Community & Friends,9
+828,276,Enjoy the Activity,9
+829,277,Community & Friends,23
+830,277,Personalized Coaching,23
+831,277,Visible Results,23
+832,278,Facility Atmosphere,2
+833,278,Cleanliness & Equipment,2
+834,278,Instructor Quality,2
+835,279,Cleanliness & Equipment,3
+837,279,Personalized Coaching,3
+838,280,Personalized Coaching,24
+839,280,Cleanliness & Equipment,24
+840,280,Community & Friends,24
+841,281,Enjoy the Activity,23
+842,281,Class Variety,23
+843,281,Personalized Coaching,23
+844,282,Community & Friends,24
+845,282,Enjoy the Activity,24
+846,282,Facility Atmosphere,24
+847,283,Cleanliness & Equipment,10
+848,283,Enjoy the Activity,10
+849,283,Challenges & Events,10
+850,284,Accountability,4
+851,284,Flexible Schedule,4
+852,284,Cleanliness & Equipment,4
+853,285,Visible Results,5
+854,285,Personalized Coaching,5
+855,285,Convenient Location,5
+856,286,Visible Results,17
+857,286,Community & Friends,17
+858,286,Convenient Location,17
+859,287,Accountability,3
+860,287,Challenges & Events,3
+861,287,Cleanliness & Equipment,3
+862,288,Visible Results,2
+863,288,Community & Friends,2
+864,288,Challenges & Events,2
+865,289,Visible Results,16
+866,289,Class Variety,16
+867,289,Community & Friends,16
+868,290,Personalized Coaching,9
+869,290,Challenges & Events,9
+870,290,Community & Friends,9
+871,291,Community & Friends,24
+872,291,Flexible Schedule,24
+873,291,Accountability,24
+874,292,Community & Friends,16
+875,292,Flexible Schedule,16
+876,292,Challenges & Events,16
+877,293,Convenient Location,5
+878,293,Challenges & Events,5
+879,293,Accountability,5
+880,294,Challenges & Events,6
+881,294,Community & Friends,6
+882,294,Visible Results,6
+883,295,Challenges & Events,11
+884,295,Personalized Coaching,11
+885,295,Enjoy the Activity,11
+886,296,Class Variety,7
+887,296,Enjoy the Activity,7
+888,296,Challenges & Events,7
+889,297,Enjoy the Activity,10
+890,297,Cleanliness & Equipment,10
+891,297,Instructor Quality,10
+892,298,Facility Atmosphere,20
+893,298,Class Variety,20
+894,298,Challenges & Events,20
+895,299,Enjoy the Activity,19
+896,299,Accountability,19
+897,299,Facility Atmosphere,19
+898,300,Facility Atmosphere,19
+899,300,Convenient Location,19
+900,300,Accountability,19
+901,301,Challenges & Events,7
+902,301,Visible Results,7
+903,301,Convenient Location,7
+904,302,Personalized Coaching,6
+905,302,Facility Atmosphere,6
+906,302,Challenges & Events,6
+907,303,Class Variety,13
+908,303,Flexible Schedule,13
+909,303,Personalized Coaching,13
+910,304,Class Variety,7
+911,304,Cleanliness & Equipment,7
+912,304,Facility Atmosphere,7
+913,305,Facility Atmosphere,8
+914,305,Accountability,8
+915,305,Visible Results,8
+916,306,Community & Friends,2
+917,306,Enjoy the Activity,2
+918,306,Visible Results,2
+919,307,Cleanliness & Equipment,4
+920,307,Accountability,4
+921,307,Facility Atmosphere,4
+922,308,Accountability,20
+923,308,Instructor Quality,20
+924,308,Challenges & Events,20
+925,309,Community & Friends,3
+926,309,Class Variety,3
+927,309,Instructor Quality,3
+928,310,Facility Atmosphere,2
+930,310,Instructor Quality,2
+931,311,Enjoy the Activity,9
+932,311,Personalized Coaching,9
+933,311,Cleanliness & Equipment,9
+934,312,Class Variety,20
+935,312,Cleanliness & Equipment,20
+936,312,Convenient Location,20
+937,313,Visible Results,11
+938,313,Accountability,11
+939,313,Facility Atmosphere,11
+940,314,Enjoy the Activity,14
+941,314,Community & Friends,14
+942,314,Cleanliness & Equipment,14
+943,315,Personalized Coaching,1
+944,315,Accountability,1
+945,315,Challenges & Events,1
+946,316,Facility Atmosphere,2
+947,316,Accountability,2
+948,316,Cleanliness & Equipment,2
+949,317,Class Variety,10
+950,317,Community & Friends,10
+951,317,Enjoy the Activity,10
+952,318,Cleanliness & Equipment,5
+953,318,Class Variety,5
+954,318,Instructor Quality,5
+955,319,Personalized Coaching,8
+956,319,Community & Friends,8
+957,319,Enjoy the Activity,8
+958,320,Accountability,2
+959,320,Cleanliness & Equipment,2
+960,320,Challenges & Events,2
+961,321,Facility Atmosphere,4
+962,321,Accountability,4
+963,321,Enjoy the Activity,4
+964,322,Enjoy the Activity,23
+965,322,Convenient Location,23
+966,322,Flexible Schedule,21
+967,323,Flexible Schedule,17
+968,323,Instructor Quality,17
+969,323,Visible Results,17
+970,324,Visible Results,6
+971,324,Personalized Coaching,6
+972,324,Convenient Location,6
+973,325,Flexible Schedule,2
+974,325,Accountability,2
+975,325,Cleanliness & Equipment,2
+976,326,Visible Results,24
+977,326,Accountability,24
+978,326,Personalized Coaching,24
+979,327,Facility Atmosphere,5
+980,327,Accountability,5
+981,327,Class Variety,5
+982,328,Visible Results,1
+983,328,Unspecified,1
+984,328,Facility Atmosphere,1
+985,329,Class Variety,9
+986,329,Convenient Location,9
+987,329,Personalized Coaching,9
+988,330,Class Variety,7
+989,330,Convenient Location,7
+990,330,Cleanliness & Equipment,7
+991,331,Convenient Location,8
+992,331,Challenges & Events,8
+993,331,Accountability,8
+994,332,Convenient Location,3
+995,332,Challenges & Events,3
+996,332,Facility Atmosphere,3
+997,333,Personalized Coaching,22
+998,333,Accountability,22
+999,333,Class Variety,22
+1000,334,Flexible Schedule,14
+1001,334,Personalized Coaching,14
+1002,334,Class Variety,14
+1003,335,Community & Friends,11
+1004,335,Personalized Coaching,11
+1005,335,Flexible Schedule,11
+1006,336,Class Variety,12
+1007,336,Facility Atmosphere,12
+1008,336,Challenges & Events,12
+1009,337,Convenient Location,10
+1010,337,Community & Friends,10
+1011,337,Class Variety,10
+1012,338,Accountability,5
+1013,338,Instructor Quality,5
+1014,338,Visible Results,5
+1015,339,Flexible Schedule,19
+1016,339,Personalized Coaching,19
+1017,339,Instructor Quality,19
+1018,340,Instructor Quality,1
+1019,340,Cleanliness & Equipment,1
+1020,340,Facility Atmosphere,1
+1021,341,Visible Results,24
+1022,341,Cleanliness & Equipment,24
+1023,341,Community & Friends,24
+1024,342,Visible Results,15
+1025,342,Accountability,15
+1026,342,Convenient Location,15
+1027,343,Cleanliness & Equipment,2
+1028,343,Accountability,2
+1029,343,Class Variety,2
+1030,344,Class Variety,2
+1031,344,Visible Results,2
+1032,344,Cleanliness & Equipment,2
+1033,345,Class Variety,19
+1034,345,Challenges & Events,19
+1035,345,Personalized Coaching,19
+1036,346,Instructor Quality,21
+1037,346,Personalized Coaching,21
+1038,346,Visible Results,21
+1039,347,Instructor Quality,10
+1040,347,Class Variety,10
+1041,347,Community & Friends,10
+1042,348,Facility Atmosphere,20
+1043,348,Flexible Schedule,20
+1044,348,Visible Results,20
+1045,349,Instructor Quality,19
+1046,349,Community & Friends,19
+1047,349,Facility Atmosphere,19
+1048,350,Enjoy the Activity,15
+1049,350,Flexible Schedule,15
+1050,350,Challenges & Events,15
+1051,351,Challenges & Events,21
+1052,351,Flexible Schedule,21
+1053,351,Cleanliness & Equipment,21
+1054,352,Convenient Location,13
+1055,352,Facility Atmosphere,13
+1056,352,Flexible Schedule,13
+1057,353,Instructor Quality,2
+1059,353,Cleanliness & Equipment,2
+1060,354,Instructor Quality,5
+1061,354,Personalized Coaching,5
+1062,354,Accountability,5
+1063,355,Cleanliness & Equipment,9
+1064,355,Enjoy the Activity,9
+1065,355,Personalized Coaching,9
+1066,356,Class Variety,14
+1067,356,Accountability,14
+1068,356,Visible Results,14
+1069,357,Instructor Quality,10
+1070,357,Cleanliness & Equipment,10
+1071,357,Convenient Location,10
+1072,358,Class Variety,14
+1073,358,Flexible Schedule,14
+1074,358,Enjoy the Activity,14
+1075,359,Class Variety,10
+1076,359,Instructor Quality,10
+1077,359,Challenges & Events,10
+1078,360,Class Variety,13
+1079,360,Challenges & Events,11
+1080,360,Convenient Location,11
+1081,361,Community & Friends,6
+1082,361,Instructor Quality,6
+1083,361,Cleanliness & Equipment,6
+1084,362,Visible Results,19
+1085,362,Enjoy the Activity,19
+1086,362,Unspecified,19
+1087,363,Convenient Location,3
+1088,363,Instructor Quality,3
+1089,363,Class Variety,3
+1090,364,Visible Results,1
+1091,364,Instructor Quality,1
+1092,364,Cleanliness & Equipment,1
+1093,365,Visible Results,4
+1094,365,Personalized Coaching,2
+1095,365,Class Variety,2
+1096,366,Community & Friends,15
+1097,366,Flexible Schedule,15
+1098,366,Facility Atmosphere,15
+1099,367,Class Variety,9
+1100,367,Facility Atmosphere,9
+1101,367,Cleanliness & Equipment,9
+1102,368,Visible Results,4
+1103,368,Class Variety,6
+1104,368,Instructor Quality,6
+1105,369,Personalized Coaching,11
+1106,369,Enjoy the Activity,11
+1107,369,Flexible Schedule,11
+1108,370,Instructor Quality,13
+1109,370,Convenient Location,13
+1110,370,Cleanliness & Equipment,13
+1111,371,Enjoy the Activity,1
+1112,371,Challenges & Events,1
+1113,371,Community & Friends,1
+1114,372,Class Variety,10
+1115,372,Cleanliness & Equipment,10
+1116,372,Flexible Schedule,10
+1117,373,Accountability,10
+1118,373,Community & Friends,10
+1119,373,Visible Results,10
+1120,374,Convenient Location,17
+1121,374,Enjoy the Activity,17
+1122,374,Unspecified,17
+1123,375,Convenient Location,19
+1124,375,Community & Friends,19
+1125,375,Challenges & Events,19
+1126,376,Class Variety,5
+1127,376,Community & Friends,5
+1128,376,Cleanliness & Equipment,5
+1130,377,Visible Results,2
+1131,377,Facility Atmosphere,2
+1132,378,Accountability,4
+1133,378,Community & Friends,4
+1134,378,Facility Atmosphere,4
+1135,379,Facility Atmosphere,2
+1136,379,Visible Results,2
+1137,379,Personalized Coaching,2
+1138,380,Visible Results,2
+1139,380,Instructor Quality,2
+1140,380,Facility Atmosphere,2
+1141,381,Enjoy the Activity,10
+1142,381,Facility Atmosphere,10
+1143,381,Challenges & Events,10
+1144,382,Instructor Quality,6
+1145,382,Enjoy the Activity,6
+1146,382,Challenges & Events,6
+1147,383,Facility Atmosphere,5
+1148,383,Cleanliness & Equipment,5
+1149,383,Class Variety,5
+1150,384,Accountability,1
+1151,384,Unspecified,1
+1152,384,Challenges & Events,1
+1153,385,Personalized Coaching,5
+1154,385,Enjoy the Activity,5
+1155,385,Class Variety,5
+1156,386,Accountability,14
+1157,386,Cleanliness & Equipment,14
+1158,386,Personalized Coaching,14
+1159,387,Community & Friends,2
+1160,387,Visible Results,2
+1161,387,Instructor Quality,2
+1162,388,Challenges & Events,12
+1163,388,Visible Results,10
+1164,388,Class Variety,10
+1165,389,Visible Results,16
+1166,389,Enjoy the Activity,16
+1167,389,Personalized Coaching,16
+1168,390,Facility Atmosphere,11
+1169,390,Cleanliness & Equipment,11
+1170,390,Flexible Schedule,11
+1171,391,Facility Atmosphere,24
+1172,391,Personalized Coaching,24
+1173,391,Enjoy the Activity,24
+1174,392,Cleanliness & Equipment,19
+1175,392,Facility Atmosphere,19
+1176,392,Visible Results,19
+1177,393,Community & Friends,25
+1178,393,Accountability,25
+1179,393,Convenient Location,25
+1180,394,Flexible Schedule,21
+1181,394,Convenient Location,21
+1182,394,Accountability,21
+1183,395,Flexible Schedule,23
+1184,395,Visible Results,23
+1185,395,Personalized Coaching,23
+1186,396,Visible Results,1
+1187,396,Instructor Quality,1
+1188,396,Flexible Schedule,1
+1189,397,Personalized Coaching,23
+1190,397,Class Variety,23
+1191,397,Instructor Quality,23
+1192,398,Instructor Quality,17
+1193,398,Personalized Coaching,17
+1194,398,Facility Atmosphere,17
+1195,399,Enjoy the Activity,18
+1196,399,Convenient Location,18
+1197,399,Personalized Coaching,18
+1198,400,Cleanliness & Equipment,12
+1199,400,Visible Results,12
+1200,400,Convenient Location,12
+1201,401,Enjoy the Activity,15
+1202,401,Visible Results,15
+1203,401,Convenient Location,15
+1204,402,Convenient Location,24
+1205,402,Personalized Coaching,24
+1206,402,Accountability,24
+1207,403,Personalized Coaching,12
+1208,403,Cleanliness & Equipment,12
+1209,403,Visible Results,12
+1210,404,Flexible Schedule,1
+1211,404,Challenges & Events,1
+1212,404,Unspecified,1
+1213,405,Convenient Location,11
+1214,405,Instructor Quality,11
+1215,405,Facility Atmosphere,11
+1216,406,Flexible Schedule,9
+1217,406,Enjoy the Activity,9
+1218,406,Facility Atmosphere,9
+1219,407,Class Variety,23
+1220,407,Cleanliness & Equipment,23
+1221,407,Community & Friends,23
+1222,408,Personalized Coaching,2
+1223,408,Cleanliness & Equipment,2
+1224,408,Accountability,2
+1225,409,Flexible Schedule,3
+1226,409,Accountability,3
+1227,409,Convenient Location,3
+1228,410,Accountability,9
+1229,410,Visible Results,9
+1230,410,Cleanliness & Equipment,9
+1231,411,Cleanliness & Equipment,4
+1232,411,Flexible Schedule,4
+1233,411,Convenient Location,4
+1234,412,Flexible Schedule,2
+1235,412,Community & Friends,2
+1236,412,Visible Results,2
+1237,413,Accountability,15
+1238,413,Convenient Location,15
+1239,413,Flexible Schedule,15
+1240,414,Facility Atmosphere,21
+1241,414,Instructor Quality,21
+1242,414,Accountability,21
+1243,415,Class Variety,1
+1244,415,Facility Atmosphere,1
+1245,415,Challenges & Events,1
+1246,416,Flexible Schedule,5
+1247,416,Enjoy the Activity,5
+1248,416,Accountability,5
+1249,417,Visible Results,14
+1250,417,Flexible Schedule,14
+1251,417,Convenient Location,14
+1252,418,Challenges & Events,20
+1253,418,Instructor Quality,20
+1254,418,Community & Friends,20
+1255,419,Cleanliness & Equipment,4
+1256,419,Instructor Quality,4
+1257,419,Challenges & Events,4
+1258,420,Cleanliness & Equipment,5
+1259,420,Challenges & Events,5
+1260,420,Facility Atmosphere,5
+1261,421,Personalized Coaching,7
+1262,421,Facility Atmosphere,7
+1263,421,Cleanliness & Equipment,7
+1264,422,Enjoy the Activity,6
+1265,422,Community & Friends,6
+1266,422,Personalized Coaching,6
+1267,423,Personalized Coaching,1
+1268,423,Flexible Schedule,1
+1269,423,Facility Atmosphere,1
+1270,424,Flexible Schedule,8
+1271,424,Community & Friends,8
+1272,424,Instructor Quality,8
+1273,425,Instructor Quality,10
+1274,425,Flexible Schedule,10
+1275,425,Personalized Coaching,10
+1276,426,Class Variety,21
+1277,426,Accountability,21
+1278,426,Community & Friends,21
+1279,427,Challenges & Events,5
+1280,427,Cleanliness & Equipment,5
+1281,427,Visible Results,5
+1282,428,Enjoy the Activity,13
+1283,428,Visible Results,13
+1284,428,Instructor Quality,13
+1285,429,Cleanliness & Equipment,15
+1286,429,Accountability,15
+1287,429,Flexible Schedule,16
+1288,430,Community & Friends,13
+1289,430,Facility Atmosphere,13
+1290,430,Class Variety,13
+1291,431,Cleanliness & Equipment,11
+1292,431,Accountability,11
+1293,431,Personalized Coaching,11
+1294,432,Instructor Quality,9
+1295,432,Class Variety,9
+1296,432,Flexible Schedule,9
+1297,433,Instructor Quality,2
+1298,433,Enjoy the Activity,2
+1299,433,Cleanliness & Equipment,2
+1300,434,Instructor Quality,24
+1301,434,Enjoy the Activity,24
+1302,434,Personalized Coaching,24
+1303,435,Challenges & Events,24
+1304,435,Community & Friends,24
+1305,435,Facility Atmosphere,24
+1306,436,Convenient Location,1
+1307,436,Facility Atmosphere,1
+1308,436,Enjoy the Activity,1
+1309,437,Personalized Coaching,22
+1310,437,Enjoy the Activity,22
+1311,437,Community & Friends,22
+1312,438,Cleanliness & Equipment,2
+1313,438,Visible Results,2
+1314,438,Flexible Schedule,2
+1315,439,Challenges & Events,17
+1316,439,Facility Atmosphere,17
+1317,439,Cleanliness & Equipment,17
+1318,440,Community & Friends,18
+1319,440,Class Variety,18
+1320,440,Challenges & Events,18
+1321,441,Unspecified,19
+1322,441,Class Variety,19
+1323,441,Challenges & Events,19
+1324,442,Class Variety,3
+1325,442,Facility Atmosphere,3
+1326,442,Cleanliness & Equipment,3
+1327,443,Flexible Schedule,15
+1328,443,Facility Atmosphere,15
+1329,443,Class Variety,15
+1330,444,Facility Atmosphere,3
+1331,444,Cleanliness & Equipment,3
+1332,444,Flexible Schedule,3
+1333,445,Instructor Quality,17
+1334,445,Challenges & Events,17
+1335,445,Convenient Location,17
+1336,446,Challenges & Events,14
+1337,446,Visible Results,14
+1338,446,Instructor Quality,14
+1339,447,Class Variety,3
+1340,447,Community & Friends,3
+1341,447,Cleanliness & Equipment,3
+1342,448,Enjoy the Activity,17
+1343,448,Class Variety,17
+1344,448,Personalized Coaching,17
+1345,449,Convenient Location,1
+1346,449,Visible Results,1
+1347,449,Enjoy the Activity,1
+1348,450,Instructor Quality,2
+1349,450,Flexible Schedule,2
+1350,450,Convenient Location,2
+1351,451,Convenient Location,1
+1352,451,Enjoy the Activity,1
+1353,451,Visible Results,3
+1354,452,Facility Atmosphere,5
+1355,452,Community & Friends,5
+1356,452,Challenges & Events,5
+1357,453,Visible Results,13
+1358,453,Flexible Schedule,13
+1359,453,Instructor Quality,13
+1360,454,Class Variety,1
+1361,454,Flexible Schedule,1
+1362,454,Personalized Coaching,1
+1363,455,Accountability,1
+1364,455,Facility Atmosphere,1
+1365,455,Cleanliness & Equipment,1
+1366,456,Cleanliness & Equipment,22
+1367,456,Visible Results,22
+1368,456,Flexible Schedule,22
+1369,457,Instructor Quality,18
+1370,457,Class Variety,18
+1371,457,Personalized Coaching,18
+1372,458,Community & Friends,4
+1373,458,Personalized Coaching,4
+1374,458,Accountability,4
+1375,459,Personalized Coaching,5
+1376,459,Convenient Location,5
+1377,459,Cleanliness & Equipment,5
+1378,460,Facility Atmosphere,7
+1379,460,Instructor Quality,7
+1380,460,Flexible Schedule,7
+1381,461,Visible Results,14
+1382,461,Facility Atmosphere,14
+1383,461,Cleanliness & Equipment,14
+1384,462,Personalized Coaching,1
+1385,462,Instructor Quality,3
+1386,462,Convenient Location,3
+1387,463,Flexible Schedule,3
+1388,463,Visible Results,3
+1389,463,Cleanliness & Equipment,3
+1390,464,Class Variety,21
+1391,464,Facility Atmosphere,21
+1392,464,Community & Friends,21
+1393,465,Community & Friends,12
+1394,465,Challenges & Events,12
+1395,465,Facility Atmosphere,12
+1396,466,Instructor Quality,5
+1397,466,Personalized Coaching,5
+1398,466,Cleanliness & Equipment,7
+1399,467,Accountability,14
+1400,467,Challenges & Events,14
+1401,467,Personalized Coaching,14
+1402,468,Instructor Quality,9
+1403,468,Enjoy the Activity,9
+1404,468,Community & Friends,9
+1405,469,Flexible Schedule,15
+1406,469,Facility Atmosphere,15
+1407,469,Visible Results,15
+1408,470,Enjoy the Activity,2
+1409,470,Challenges & Events,2
+1410,470,Instructor Quality,2
+1411,471,Personalized Coaching,2
+1412,471,Facility Atmosphere,2
+1413,471,Challenges & Events,2
+1414,472,Enjoy the Activity,16
+1415,472,Class Variety,16
+1416,472,Facility Atmosphere,16
+1417,473,Community & Friends,12
+1418,473,Instructor Quality,12
+1419,473,Class Variety,12
+1420,474,Class Variety,3
+1421,474,Accountability,3
+1422,474,Cleanliness & Equipment,3
+1423,475,Accountability,12
+1424,475,Flexible Schedule,12
+1425,475,Cleanliness & Equipment,12
+1426,476,Challenges & Events,22
+1427,476,Personalized Coaching,22
+1428,476,Flexible Schedule,22
+1429,477,Enjoy the Activity,3
+1430,477,Class Variety,3
+1431,477,Community & Friends,3
+1432,478,Facility Atmosphere,20
+1433,478,Accountability,20
+1434,478,Personalized Coaching,20
+1435,479,Community & Friends,11
+1436,479,Class Variety,11
+1437,479,Cleanliness & Equipment,11
+1438,480,Enjoy the Activity,24
+1439,480,Community & Friends,24
+1440,480,Challenges & Events,24
+1441,481,Flexible Schedule,1
+1442,481,Instructor Quality,1
+1443,481,Enjoy the Activity,1
+1444,482,Cleanliness & Equipment,14
+1445,482,Visible Results,14
+1446,482,Challenges & Events,14
+1447,483,Cleanliness & Equipment,7
+1448,483,Class Variety,7
+1449,483,Flexible Schedule,7
+1450,484,Facility Atmosphere,21
+1451,484,Personalized Coaching,21
+1452,484,Challenges & Events,21
+1453,485,Instructor Quality,23
+1454,485,Convenient Location,23
+1455,485,Cleanliness & Equipment,23
+1456,486,Flexible Schedule,7
+1457,486,Facility Atmosphere,7
+1458,486,Accountability,7
+1459,487,Instructor Quality,2
+1460,487,Enjoy the Activity,2
+1461,487,Cleanliness & Equipment,2
+1462,488,Convenient Location,7
+1463,488,Enjoy the Activity,7
+1464,488,Community & Friends,7
+1465,489,Community & Friends,6
+1466,489,Challenges & Events,6
+1467,489,Facility Atmosphere,6
+1468,490,Class Variety,3
+1469,490,Convenient Location,3
+1470,490,Instructor Quality,3
+1471,491,Class Variety,3
+1472,491,Convenient Location,3
+1473,491,Personalized Coaching,3
+1474,492,Enjoy the Activity,1
+1475,492,Accountability,1
+1476,492,Instructor Quality,1
+1477,493,Personalized Coaching,13
+1478,493,Enjoy the Activity,13
+1479,493,Facility Atmosphere,13
+1480,494,Class Variety,2
+1481,494,Unspecified,2
+1482,494,Enjoy the Activity,2
+1483,495,Cleanliness & Equipment,13
+1484,495,Flexible Schedule,13
+1485,495,Facility Atmosphere,13
+1486,496,Community & Friends,20
+1487,496,Facility Atmosphere,20
+1488,496,Enjoy the Activity,20
+1489,497,Convenient Location,8
+1490,497,Class Variety,8
+1492,498,Challenges & Events,15
+1493,498,Personalized Coaching,15
+1494,498,Facility Atmosphere,15
+1495,499,Cleanliness & Equipment,7
+1496,499,Accountability,7
+1498,500,Enjoy the Activity,15
+1499,500,Class Variety,15
+1500,500,Instructor Quality,15
