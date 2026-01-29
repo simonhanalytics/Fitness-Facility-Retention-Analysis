@@ -16,7 +16,7 @@ There have been fitness members that have stayed in their fitness studio long te
 - [CSV Datasets Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/Cleaned_datasets)
 - Uploaded the 4 CSV datasets onto Excel
 - Cleaned and transformed the data on Power Query by fixing any misspelling, examining and replacing null values, fixing the data types, checking for strange values, and checking for any start dates after the end dates.
-<img width="1000" height="500" alt="Excel_PowerQuery_image" src="https://github.com/user-attachments/assets/66f31381-5887-41a1-81da-d6f538c8d951" />
+<img width="900" height="500" alt="Excel_PowerQuery_image" src="https://github.com/user-attachments/assets/66f31381-5887-41a1-81da-d6f538c8d951" />
 
 3. Data analysis using SQL:
 - [SQL Files Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/SQL_Files)
@@ -27,7 +27,7 @@ There have been fitness members that have stayed in their fitness studio long te
 4. Dashboard creation using Power BI:
 - [Power BI File Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/blob/main/Fitness%20Facilities%20Retention%20Dashboard.pbix)
 - Built a 3 page interactive dashboard illustrating the overview, engagement, and cancellation reasons.
-<img width="700" height="350" alt="PowerBI_image" src="https://github.com/user-attachments/assets/7d52a5f7-0958-4207-af8a-124245d5d76d" />
+<img width="600" height="350" alt="PowerBI_image" src="https://github.com/user-attachments/assets/7d52a5f7-0958-4207-af8a-124245d5d76d" />
 
 
 ## Skills
