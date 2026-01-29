@@ -11,16 +11,19 @@ There have been fitness members that have stayed in their fitness studio long te
 ## Methodology
 1. Data creation using ChatGPT:
 - Created 4 CSV datasets (members, attendance, engagement, and cancellations) through a detailed prompt on what the columns are, the primary/foreign key references, having it be as realistic as possible, and to include errors and null values on purpose to provide me the opportunity to clean the data.
+
 2. Data wrangling using Excel Power Query:
 - [CSV Datasets Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/Cleaned_datasets)
 - Uploaded the 4 CSV datasets onto Excel
 - Cleaned and transformed the data on Power Query by fixing any misspelling, examining and replacing null values, fixing the data types, checking for strange values, and checking for any start dates after the end dates.
 <img width="1000" height="500" alt="Excel_PowerQuery_image" src="https://github.com/user-attachments/assets/66f31381-5887-41a1-81da-d6f538c8d951" />
+
 3. Data analysis using SQL:
 - [SQL Files Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/SQL_Files)
 - Imported the 4 cleaned datasets onto SQL
 - Analyzed both the engagement and cancellation reasons in terms of age group, fitness level, fitness reason, sign-up method, and fitness level.
 <img width="400" height="500" alt="SQL_image" src="https://github.com/user-attachments/assets/fe141cba-55a3-46cb-b904-8da122863d90" />
+
 4. Dashboard creation using Power BI:
 - [Power BI File Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/blob/main/Fitness%20Facilities%20Retention%20Dashboard.pbix)
 - Built a 3 page interactive dashboard illustrating the overview, engagement, and cancellation reasons.
