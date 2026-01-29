@@ -16,7 +16,7 @@ There have been fitness members that have stayed in their fitness studio long te
 - [CSV Datasets Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/Cleaned_datasets)
 - Uploaded the 4 CSV datasets onto Excel
 - Cleaned and transformed the data on Power Query by fixing any misspelling, examining and replacing null values, fixing the data types, checking for strange values, and checking for any start dates after the end dates.
-<img width="600" height="300" alt="Excel_PowerQuery_image" src="https://github.com/user-attachments/assets/66f31381-5887-41a1-81da-d6f538c8d951" />
+<img width="600" height="400" alt="Excel_PowerQuery_image" src="https://github.com/user-attachments/assets/66f31381-5887-41a1-81da-d6f538c8d951" />
 
 3. Data analysis using SQL:
 - [SQL Files Link](https://github.com/simonhanalytics/Fitness-Facility-Retention-Analysis/tree/main/SQL_Files)
